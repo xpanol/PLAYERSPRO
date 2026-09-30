@@ -1,92 +1,102 @@
 [
   {
-    "text": "Estamos",
-    "start": 0,
-    "end": 0.38
+    "text": "El",
+    "start": 0.0,
+    "end": 0.18
   },
   {
-    "text": "generando",
-    "start": 0.38,
-    "end": 0.92
-  },
-  {
-    "text": "más",
-    "start": 0.92,
-    "end": 1.14
-  },
-  {
-    "text": "leads,",
-    "start": 1.14,
-    "end": 1.44
-  },
-  {
-    "text": "pero",
-    "start": 1.94,
-    "end": 2.1
-  },
-  {
-    "text": "todavía",
-    "start": 2.1,
-    "end": 2.54
-  },
-  {
-    "text": "no",
-    "start": 2.54,
-    "end": 2.74
-  },
-  {
-    "text": "estamos",
-    "start": 2.74,
-    "end": 2.98
-  },
-  {
-    "text": "viendo",
-    "start": 2.98,
-    "end": 3.32
-  },
-  {
-    "text": "un",
-    "start": 3.32,
-    "end": 3.54
-  },
-  {
-    "text": "impacto",
-    "start": 3.54,
-    "end": 3.88
-  },
-  {
-    "text": "significativo",
-    "start": 3.88,
-    "end": 4.78
-  },
-  {
-    "text": "en",
-    "start": 4.78,
-    "end": 4.98
-  },
-  {
-    "text": "las",
-    "start": 4.98,
-    "end": 5.1
-  },
-  {
-    "text": "oportunidades",
-    "start": 5.1,
-    "end": 5.78
+    "text": "volumen",
+    "start": 0.18,
+    "end": 0.4
   },
   {
     "text": "de",
-    "start": 5.78,
-    "end": 5.98
+    "start": 0.4,
+    "end": 0.58
+  },
+  {
+    "text": "Litz",
+    "start": 0.58,
+    "end": 0.86
+  },
+  {
+    "text": "ha",
+    "start": 0.86,
+    "end": 1.14
+  },
+  {
+    "text": "aumentado,",
+    "start": 1.14,
+    "end": 1.7
+  },
+  {
+    "text": "pero",
+    "start": 2.06,
+    "end": 2.3
+  },
+  {
+    "text": "todavía",
+    "start": 2.3,
+    "end": 2.52
+  },
+  {
+    "text": "no",
+    "start": 2.52,
+    "end": 2.68
+  },
+  {
+    "text": "estamos",
+    "start": 2.68,
+    "end": 2.92
+  },
+  {
+    "text": "viendo",
+    "start": 2.92,
+    "end": 3.14
+  },
+  {
+    "text": "un",
+    "start": 3.14,
+    "end": 3.3
+  },
+  {
+    "text": "impacto",
+    "start": 3.3,
+    "end": 3.56
+  },
+  {
+    "text": "significativo",
+    "start": 3.56,
+    "end": 4.28
+  },
+  {
+    "text": "en",
+    "start": 4.28,
+    "end": 4.38
+  },
+  {
+    "text": "las",
+    "start": 4.38,
+    "end": 4.46
+  },
+  {
+    "text": "oportunidades",
+    "start": 4.46,
+    "end": 5.02
+  },
+  {
+    "text": "de",
+    "start": 5.02,
+    "end": 5.22
   },
   {
     "text": "venta",
-    "start": 5.98,
-    "end": 6.24
+    "start": 5.22,
+    "end": 5.48
   },
   {
     "text": "cualificadas.",
-    "start": 6.24,
-    "end": 6.92
+    "start": 5.48,
+    "end": 6.18
   }
 ]
